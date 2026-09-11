@@ -19,7 +19,7 @@ def cargar_modelo():
 
     archivo = hf_hub_download(
         repo_id=MODEL_NAME,
-        filename="codificador_de_etiquetas.pkl"
+        filename="label_encoder.pkl"
     )
 
     with open(archivo, "rb") as f:
