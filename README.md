@@ -1,1 +1,1 @@
-# SmartCV
+# Clasificador Inteligente de Curriculum Vitae
