@@ -6,7 +6,7 @@ import torch
 from huggingface_hub import hf_hub_download
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
-MODEL_NAME = ""DOpazo38/modelo-smartcv"
+MODEL_NAME = "DOpazo38/smartcv-model"
 
 @st.cache_resource
 def cargar_modelo():
