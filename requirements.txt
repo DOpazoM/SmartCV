@@ -1,1 +1,6 @@
-
+streamlit
+transformers
+torch
+pymupdf
+huggingface_hub
+scikit-learn
